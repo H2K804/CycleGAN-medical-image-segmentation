@@ -1,7 +1,6 @@
 __pycache__
 .idea/*
 logs/*
-checkpoint/*
-datasets/*
+checkpoint/**
 test/*
 sample/*
